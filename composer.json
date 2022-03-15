@@ -45,7 +45,7 @@
 		{
             "type": "vcs",
             "url": "git@github.com:marispro/webauthn-lib.git"
-        },
+        }
 	],
     "minimum-stability": "dev",
     "prefer-stable": true
